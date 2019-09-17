@@ -6,11 +6,12 @@
 
 /**
  *
- * @author Dalfrak
+ * @author Thibault
  */
 public class NewClass {
     // Pour tester
     public static void main(String[] args) {
         System.out.println("Hello World");
     }
+    
 }
